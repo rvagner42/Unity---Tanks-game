@@ -10,3 +10,5 @@ Controls:
 - Moving the mouse will change the direction of the canon/camera, FPS-style.
 
 The enemy AI is basic : it will go after the closest enemy (be it the player or another tank).
+
+When the player's hp reach 0, the game restarts automatically.

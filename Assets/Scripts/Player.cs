@@ -54,6 +54,8 @@ public class Player : Tank {
 
 	void Move()
 	{
+		if (Input.GetKeyDown (KeyCode.Escape))
+			Application.Quit ();
 		if (Input.GetKey ("w"))
 			direction += transform.forward;
 		if (Input.GetKey ("s"))

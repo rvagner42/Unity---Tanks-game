@@ -8,6 +8,7 @@ Controls:
 - Left click to fire simple bullets (illimited ammo).
 - Right click to fire missiles (ammo limited to 8).
 - Moving the mouse will change the direction of the canon/camera, FPS-style.
+- Escape to quit the game.
 
 The enemy AI is basic : it will go after the closest enemy (be it the player or another tank).
 
